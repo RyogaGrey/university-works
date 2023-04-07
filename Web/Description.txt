@@ -1,0 +1,3 @@
+Web lab folder. 2nd year, 4th semester
+The aim of the course is to study the basic principles of building Internet-oriented software - 
+web services, websites, online resources, software platforms using modern programming languages.
