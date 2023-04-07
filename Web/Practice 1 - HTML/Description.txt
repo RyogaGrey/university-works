@@ -1,1 +1,10 @@
-d
+Draw the following objects on the HTML page:
+- Square, circle, oval, rhombus in a row
+- Text in different sizes (headings)
+- Overlaying shapes, text within shapes, centering text
+- Flex: grouping of objects (right to left, centered, evenly, hyphenation 
+lines)
+- Framed images
+- Images with the same size
+- Gradients (vertical, horizontal, etc.)
+- Animation
