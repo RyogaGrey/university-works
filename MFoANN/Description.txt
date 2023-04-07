@@ -1,2 +1,3 @@
+The MFoANN folder, 2nd year, 4th semester
 The discipline "Mathematical Foundations of Artificial Neural Networks" is designed to study the mathematical apparatus
 and practical techniques necessary for the construction, training and operation of artificial neural networks of different architectures.
