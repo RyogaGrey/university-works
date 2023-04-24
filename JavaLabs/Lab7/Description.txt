@@ -1,1 +1,25 @@
+Case study 7. "Abstraction and inheritance"
+Task:
+- Implement a hierarchy of classes using an abstract class as the basis of the hierarchy;
+- develop fields, methods and properties for each of the described classes;
+- all class fields should be described using protected access modifier;
+- implement default constructors and constructors with parameters for each class:
+  + there should be two constructors in the base (abstract class), one of which calls the other;
+  + the constructor of the descendant class must call the constructor of the base class;
+- get and set methods for accessing class fields;
+- override the toString() method to output the class fields;
+- show by example one of the methods present in each class the polymorphism property;
+- create a set of instances of descendants by using a list with the class-root as a generalized type as a data repository;
+- implement methods of information retrieval by specific criteria in the list of objects;
+- describe 2 interfaces with a single abstract method in each, one to be implemented by one class and the other by another;
+- call methods of both interfaces for all objects in the list, using instanceof check beforehand.
 
+Task Variant 12: Republic, monarchy, kingdom, state.
+
+Hierarchy:
+1) The State is an abstract class
+2) Republic and Monarchy extend the State
+3) Kingdom extends the Monarchy
+
+State -> Republic
+      \> Monarchy -> Kingdom
