@@ -8,6 +8,7 @@ Task:
   + the constructor of the descendant class must call the constructor of the base class;
 - get and set methods for accessing class fields;
 - override the toString() method to output the class fields;
+----- ↑ Done ↑ //// ↓ Not done ↓ -----
 - show by example one of the methods present in each class the polymorphism property;
 - create a set of instances of descendants by using a list with the class-root as a generalized type as a data repository;
 - implement methods of information retrieval by specific criteria in the list of objects;
