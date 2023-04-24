@@ -22,5 +22,5 @@ Hierarchy:
 2) Republic and Monarchy extend the State
 3) Kingdom extends the Monarchy
 
-State -> Republic
-      \> Monarchy -> Kingdom
+State → Republic
+      ↪ Monarchy → Kingdom
